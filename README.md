@@ -30,8 +30,8 @@ Browser, or in the Server.
 #### Code 
 
 ```
- git clone https://github.com/Deepansharora27/HammingCodeGeneration.git
- cd HammingCodeGeneration
+ git clone https://github.com/Deepansharora27/FibonacciEnarx.git
+ cd FibonacciEnarx
 ```
 
 Since the Code has been written in C++, we need to figure out a way to generate a WebAssembly Binary which then we can deploy to an Enarx Keep.
