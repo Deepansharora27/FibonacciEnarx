@@ -43,4 +43,4 @@ When you have your `cpp` file created, you can execute `wasic++`
  wasic++ Fibonacci -o FibonacciBinary.wasm
 ```
 
-Now, you will have a new `Hamming.wasm` file ready in your Directory and thus now you can successfully deploy it in an Enarx Keep.
+Now, you will have a new `FibonacciBinary.wasm` file ready in your Directory and thus now you can successfully deploy it in an Enarx Keep.
